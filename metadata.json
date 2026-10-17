@@ -1,0 +1,6 @@
+{
+  "name": "NiftyPulse - Indian Stock Portfolio & Market Terminal",
+  "description": "Multi-user Indian stock portfolio tracker with automated technical analysis, NSE/BSE data, NIFTY 50 EMA indicators, sector heatmaps, and smart risk alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
